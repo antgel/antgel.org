@@ -1,0 +1,32 @@
+---
+layout: page
+title: Streaming Kol Israel radio without Microsoft Windows
+date: 
+type: page
+published: false
+status: private
+categories: []
+tags: []
+meta:
+  _edit_last: '22558380'
+author:
+  login: antgel
+  email: antony.gelberg@gmail.com
+  display_name: antgel
+  first_name: ''
+  last_name: ''
+---
+<p>The Paul McCartney concert last night in Tel Aviv was broadcast on Reshet Bet and I wanted to listen online. But the IBA <a href="http://www.iba.org.il/media/Media.aspx">Internet Broadcast Centre</a> hasn't been designed with any thought for cross-platform standards-compliance. They use the proprietary .asx format and Windows Media codecs. Because of this incompetence, they are forcing users to use Microsoft Windows.  I'm not sure if it works on Mac OS, it certainly doesn't work on my Linux system <em>(update: I have had some success with mozplugger but it is painful)</em>.  I dived into their setup and found the real URLs, which work with any operating system.</p>
+<p>You'll need a media player and the relevant codecs installed, I use mplayer but I'm sure others e.g. VLC or Totem will work as well. If your system is configured correctly, your web browser will open the link in your media player, and the stream will start:</p>
+<ul>
+<li>Reshet Aleph: ?</li>
+<li>Reshet Bet: <a href="mms://s53wm.castup.net/990310001-52.wmv">mms://s53wm.castup.net/990310001-52.wmv</a></li>
+<li>Reshet Gimel: <a href="mms://s52wm.castup.net/990310004-52.wmv">mms://s52wm.castup.net/990310004-52.wmv</a></li>
+<li>Reshet Dalet (Arabic):  <a href="mms://s53wm.castup.net/990310003-52.wmv">mms://s53wm.castup.net/990310003-52.wmv</a></li>
+<li>Reshet Moreshet: <a href="mms://s52wm.castup.net/990310002-52.wmv">mms://s52wm.castup.net/990310002-52.wmv</a></li>
+<li>Reshet Klitat Aliyah (REKA): <a href="mms://s36wm.castup.net/990310005-52.wmv">mms://s36wm.castup.net/990310005-52.wmv</a></li>
+<li>Kol Hamusica: <a href="mms://s53wm.castup.net/990310008-52.wmv">mms://s53wm.castup.net/990310008-52.wmv</a></li>
+<li>88FM: ?</li>
+</ul>
+<p>If your web browser isn't configured correctly, you can still open the stream from the shell. For example, to listen to Reshet Bet, just type:</p>
+<p>mplayer mms://s53wm.castup.net/990310001-52.wmv</p>
