@@ -30,3 +30,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Defaults
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            author: Antony Gelberg
