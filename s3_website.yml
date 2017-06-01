@@ -34,7 +34,7 @@ s3_endpoint: eu-central-1
 
 s3_reduced_redundancy: true
 
-# cloudfront_distribution_id: none
+cloudfront_distribution_id: ERQK2KLDWFW8U
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:
