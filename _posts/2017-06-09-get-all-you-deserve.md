@@ -2,7 +2,8 @@
 layout: post
 ---
 
-DISCLAIMER: I wrote this in a rush. Will improve later with links and references, and correct any mistakes.
+DISCLAIMER: I wrote this in a rush. Will improve later with links and
+references, and correct any mistakes.
 
 Apologies if you thought this was going to be about the Steven Wilson
 live album of the same name. I don't usually have much to say about the

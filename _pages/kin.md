@@ -9,9 +9,11 @@ Kin was the band I was in once upon a time.
 This is the story of my experiences adding to the rich fabric of rock
 history.
 
-*   Antony Gelberg - guitar *   David Okuniew - guitar and backing
-vocals *   Paul Richman - bass guitar *   Daniel Spencer - lead vocals *
-Hezi Yechiel - drumset, cymbals and percussion
+* Antony Gelberg: guitar
+* David Okuniew: guitar and backing vocals
+* Paul Richman: bass guitar
+* Daniel Spencer: lead vocals
+* Hezi Yechiel: drumset, cymbals and percussion
 
 Here is the story of my experiences adding to rock history. I also have
 sound clips for your enjoyment.

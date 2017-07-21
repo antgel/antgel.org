@@ -22,23 +22,26 @@ that they are unusually disruptive to the working week. This meant
 taking a few holiday dayss off, and getting a long effective break. One
 conversation with a supportive boss later, and I was ready.
 
-I decided to learn in the USA, where it's cheaper and bigger. I won't bore you with all of the bureaucracy as a non-US citizen, but for [some
+I decided to learn in the USA, where it's cheaper and bigger. I won't
+bore you with all of the bureaucracy as a non-US citizen, but for [some
 reason](https://www.youtube.com/watch?v=m8Uloqbxy_M), it's exhausting
 and expensive. "Highlights" included:
 
-*   [M-1 visa for vocational
-    students](https://travel.state.gov/content/visas/en/study-exchange/student.html)- included answering questions
-    about whether I was a terrorist and / or involved in human
-    trafficking.
-*   [TSA Alien Flight Student Program](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training) - included getting my fingerprints taken
-    and FedExed to the USA, by the "approved" TSA agency in Israel (a
+* [M-1 visa for vocational
+  students](https://travel.state.gov/content/visas/en/study-exchange/student.html):
+  included answering questions about whether I was a terrorist and / or
+  involved in human trafficking.
+* [TSA Alien Flight Student
+  Program](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training):
+  included getting my fingerprints taken and FedExed to the USA, by
+  the "approved" TSA agency in Israel (a
     Yeminite family home in Rosh HaAyin with four generations having lunch,
     offering me [kuba](https://en.wikipedia.org/wiki/Kibbeh), kids
     running around screaming, etc).
-*   [Third-class FAA medical
-    certificate](https://www.faa.gov/licenses_certificates/medical_certification/) - arms and legs present and
-    correct, an attempt by the doctor to set me up with his divorced
-    friend, complete with children[^doctor].
+* [Third-class FAA medical
+  certificate](https://www.faa.gov/licenses_certificates/medical_certification/):
+  arms and legs present and correct, an attempt by the doctor to set
+  me up with his divorced friend, complete with children[^doctor].
 
 [^doctor]: "She already has kids, you don't need to worry about that"
 
@@ -66,13 +69,15 @@ was challenging at best. Still, you don't get a
 putting the effort in. The night before leaving, I was sure I was ready,
 I'd gone from a tech and music geek to an expert[^expert] on such
 subjects as [Aeronautical
-Decision-Making](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/04_phak_ch2.pdf) and [Principles of Flight](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/06_phak_ch4.pdf).
-
+Decision-Making](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/04_phak_ch2.pdf)
+and [Principles of
+Flight](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/06_phak_ch4.pdf).
 
 [^mba]: Soon to be cancelled anyway.
 [^expert]: For a beginner.
 
-I had everything mentioned above, plus the:
+I had everything mentioned above, plus:
+
 * Tickets to fly to Tampa, my chosen base as a more interesting
   alternative to staying in Lakeland. At least it's a proper city with
   nightlife.

@@ -11,8 +11,8 @@ sharwama. So I wrote my first haiku:
 
 # "The Black Sheep"
 
-> No chickpea involvement  
-> Fear of the unknown tastes good  
+> No chickpea involvement
+> Fear of the unknown tastes good
 > Turkey blood unspilt
 
 This could also be my last haiku, although I have to say I think I've
