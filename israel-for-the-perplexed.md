@@ -37,7 +37,7 @@ one](https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War),
 Israel is a global leader in many areas, including science, technology,
 defence, and innovation. Dan Senor's book, [Start-Up
 Nation](https://www.bookdepository.com/Start-Up-Nation-Dan-Senor/9780446541473)
-goessome way to explaining how a tiny country surrounded by enemies, has
+goes some way to explaining how a tiny country surrounded by enemies, has
 not only survived, but actually thrived.
 
 Israel also leads in inverse relationship between physical and
@@ -115,8 +115,8 @@ prepared for a:
 * "Seize the day", live-for-the-moment approach.
 * Curiosity and interest in outsiders.
 
-Even the climate is variable, from the green, hilly north, through to
-the desert in the south. No doubt, this is a place of contrasts.
+Even the climate varies, from the green, hilly north to
+the desert in the south. This is a place of contrast.
 
 ## Places
 
@@ -303,6 +303,7 @@ problem, and many locals don't have cars.
 * The Port ("HaNamal") הנמל
 * Old Jaffa ("Yafo")
 * Jaffa port נמל יפו
+* Beit Ha'amudim בית העמודים
 
 #### Food and drink
 
