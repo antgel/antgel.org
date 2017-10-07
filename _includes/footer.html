@@ -7,8 +7,9 @@
         <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
           <li>
-            {{ site.author | escape }}
-            (<a href="mailto:{{ site.email }}">email</a>)
+            &copy; {{ site.author | escape }}
+            (<a href="mailto:{{ site.email }}">Email</a> | 
+             <a href="https://resume.antgel.org">Resume</a>)
         </ul>
       </div>
 
@@ -25,6 +26,8 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          <li>
+          </li>
         </ul>
       </div>
 
