@@ -2,10 +2,9 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
           <li>
             {{ site.author | escape }}
@@ -30,7 +29,11 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <ul class="misc-list">
+        <li>{{ site.description | escape }}</li>
+        <li class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" |
+            relative_url }}">via RSS</a>.</li>
+        </ul>
       </div>
     </div>
 

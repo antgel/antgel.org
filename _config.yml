@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Beautiful Chaos of Humankind
+title: Organized Chaos - a blog
 author: Antony Gelberg
 email: antony.gelberg@COVFEFEgmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  One man's blog - random, rare thoughts on anything and everything...
+  Braindumps on subjects that interest me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: antgel
@@ -30,6 +30,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-toc
 exclude:
@@ -43,3 +44,31 @@ defaults:
             path: ""
         values:
             author: Antony Gelberg
+
+permalink: pretty
+
+collections:
+  books:
+    output: true
+# FIXME: Only supported from 3.7.0
+# collections_dir: collections
+
+pagination:
+  enabled: true
+  debug: true
+  per_page: 6
+  permalink: '/:num/'
+  title: ':title | :num of :max'
+
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+
+  # Collection pages, omit to disable
+  collections:
+    title: ':coll'
+
+  # Tag pages, omit to disable
+  tags:
+    enabled: false
