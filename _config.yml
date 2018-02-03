@@ -72,3 +72,4 @@ autopages:
   # Tag pages, omit to disable
   tags:
     enabled: false
+
