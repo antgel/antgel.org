@@ -15,11 +15,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Organized Chaos - a blog
+title: Organized Chaos (a blog)
 author: Antony Gelberg
 email: antony.gelberg@COVFEFEgmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Braindumps on subjects that interest me.
+  Braindumps on interesting subjects.
 baseurl: ""  # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://antgel.org"
