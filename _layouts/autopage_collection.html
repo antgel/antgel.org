@@ -11,7 +11,7 @@ pagination:
 
 <div class="home">
 
-	<h1 class="page-heading">{% if page.autopages %}{{ page.autopages.display_name | capitalize }}{% endif %}</h1>
+  <h1 class="page-heading">{% if page.autopages %}{{ page.autopages.display_name | capitalize }}{% endif %}</h1>
 
   {{ content | markdownify }}
 
@@ -22,7 +22,9 @@ pagination:
     -->
     {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if page.autopages.display_name == 'posts' %}
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
