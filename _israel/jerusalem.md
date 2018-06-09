@@ -126,8 +126,9 @@ Some of my highlights:
   wish to see where the big debates are fought, and decisions are made.
   Israel has *never* had a non-coalition government, so it's debatable
   which of the two is more common.
-* Arnon HaNatziv promenade: Another phenomenal view. <!-- (TODO) -->
-* Biblical Zoo <!-- (TODO) -->
+<!-- * Arnon HaNatziv promenade: Another phenomenal view. -->
+<!-- * Begin Museum -->
+<!-- * Biblical Zoo -->
 
 ## Food and drink
 
