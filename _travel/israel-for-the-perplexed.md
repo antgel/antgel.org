@@ -1,5 +1,8 @@
 ---
-layout: page
+header:
+  image: "assets/images/header/camel-1280x375.jpg"
+  image_description: "A camel"
+  caption: "Image credit: Antony Gelberg"
 title: Israel for the Perplexed
 toc: true
 ---
@@ -17,7 +20,8 @@ Israel. One one hand, there's no need to reinvent the wheel:
 * Netflix is, but it's [severely limited](http://www.jpost.com/Israel-News/Culture/Netflix-Israel-wont-have-House-of-Cards-other-hits-440753).
 * [Chill is too](https://www.youtube.com/watch?v=DVy8pNscbNk).
 
-Now we've gotten the formalities out of the way, let's get started.
+This page is an introduction. See the sidebar links for more detail on
+specific topics.
 
 ## Overview
 
@@ -57,23 +61,67 @@ population size, and the number of:
   confirmed](http://www.independent.co.uk/news/world/middle-east/ban-ki-moon-united-nations-disproportionate-israel-focus-resolutions-palestinians-human-rights-danny-a7481961.html)
   by Secretary-General Ban Ki-moon, shortly before he left the job.
 
-## More
-
-See the links below for more detailed content on large topics.
-
-* [People, demographics, diversity](../people)
-* [Transport, how to get around, public / private](../transport)
-
-### Places
-
-* [Jerusalem](../jerusalem)
-* [Tel Aviv](../tel_aviv)
-* [Galilee](../galilee)
 
 <!-- ### Haifa חיפה -->
 <!-- ### Golan Heights רמת הגולן -->
 <!-- ### Dead Sea ים המלח -->
 <!-- ### Eilat אילת -->
+
+## People
+
+Israel is much more diverse than the casual observer might
+expect. Around 73% of the population
+is [Jewish](https://en.wikipedia.org/wiki/Israeli_Jews), mostly
+of [Mizrachi](https://en.wikipedia.org/wiki/Mizrahi_Jews_in_Israel)
+and
+[Ashkenazi](https://en.wikipedia.org/wiki/Ashkenazi_Jews_in_Israel)
+descent. Of these, around:
+
+* 42% identify as secular.
+* 38% are traditional.
+* 20% Orthodox, made up of:
+  * 12% are "religious Zionist"
+  * 8% are "ultra-Orthodox".
+
+Keeping up? Another 20%
+is [Arab](https://en.wikipedia.org/wiki/Arab_citizens_of_Israel),
+mostly Muslim, Christian
+and [Druze](https://en.wikipedia.org/wiki/Druze_in_Israel).
+
+The rest is divided between other Semitic and non-Semitic groups, such as
+the [Samaritans](https://en.wikipedia.org/wiki/Samaritans),
+[Black Hebrews](https://en.wikipedia.org/wiki/African_Hebrew_Israelites_of_Jerusalem),
+and foreign workers, many of whom come from China, the Philippines,
+and Sudan.
+
+This macro diversity is also reflected locally. Let's take the two
+largest cities as an example. It's easy to characterize:
+
+* Jerusalem, a religious time-warp, walls dripping with legendary
+  stories of war ~~and peace~~.
+* Tel Aviv, thinks it's NYC and Berlin, unaware of its real location,
+  200km from Damascus and Beirut.
+
+In fact,
+[songs have been written](https://www.youtube.com/watch?v=JNwJFLkoX80)
+about the contrast between the two, which reflect different sides of
+our psyche. Yet, Jerusalem boasts a
+[buzzing, intimate nightlife](https://www.timeout.com/israel/nightlife/the-jerusalem-nightlife-best-bars-and-nightclubs),
+and if you [know where to look](http://eng.ihi.org.il/) in Tel Aviv,
+there are many
+[reminders](http://www.palmach.org.il/Web/English/TheMuseum/Default.aspx) that
+you're in the Middle East.
+
+So, it's pointless to try and stereotype the "typical" Israeli, but be
+prepared for a:
+
+* Dry sense of humour, equally fuelled by hopefulness and helplessness.
+* Straightforward, robust, non-politically-correct attitude.
+* "Seize the day", live-for-the-moment approach.
+* Curiosity and interest in outsiders.
+
+Even the climate varies, from the green, hilly north to
+the desert in the south. This is a place of contrast.
 
 ## Food
 
@@ -99,4 +147,6 @@ From the most basic street food to the complex and contemporary.
   little gits can really annoy. Or you could just take me with you
   in which case they'll leave you alone and devour me.
 * Title inspired by the Rambam's [Guide for the Perplexed](https://en.wikipedia.org/wiki/TheGuideforthePerplexed).
-
+* Header image is a friendly camel near [Kfar
+Kassem](https://en.wikipedia.org/wiki/Kafr_Qasim), taken by me in
+April 2018.

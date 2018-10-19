@@ -15,67 +15,140 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Organized Chaos (a blog)
-author: Antony Gelberg
-email: antony.gelberg@COVFEFEgmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Interesting braindumps.
+title: "Organized Chaos (a corner of the Internet)"
+name: "Antony Gelberg"
+# email: antony.gelberg@COVFEFEgmail.com"
+description: "Braindumps from a homo sapiens mind."
 baseurl: ""  # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://antgel.org"
-twitter_username: antgel
-github_username: antgel
 
-google_analytics: UA-100377459-1
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id					 : "UA-100377459-1"
+    anonymize_ip         : # true, false (default)
 
-# Build settings
+# Site Author
+# author:
+  # name             : "Antony Gelberg"
+  # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  # bio              : "Homo sapiens."
+  # location         : "Planet Earth"
+  # email            : "antony.gelberg@COVFEFEgmail.com"
+  # links:
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://antgel.org"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/antgel"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/antgel"
+    # - label: "GitHub"
+      # icon: "fab fa-fw fa-github"
+      # url: "https://github.com/antgel"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # # url: "https://instagram.com/"
+    # - label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:antony.gelberg@COVFEFEgmail.com"
+
+# Site Footer
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/antgel"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/antgel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/antgel"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:antony.gelberg@COVFEFEgmail.com"
+
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: "en-GB"
+
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-include-cache
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-toc
+
+include:
+  - "_pages"
 exclude:
   - Gemfile
   - Gemfile.lock
+  - s3_website.yml
+  - TODO
 
 # Defaults
 defaults:
-  -
-    scope:
+  # _pages
+  - scope:
       path: ""
+      type: pages
     values:
-      author: Antony Gelberg
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+      share: true
+      sidebar:
+        nav: "side"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      comments: true
+      layout: single
+      read_time: true
+      related: true
+      share: true
+      sidebar:
+        nav: "side"
+  # _travel
+  - scope:
+      path: ""
+      type: travel
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+      share: true
+      sidebar:
+        nav: "side"
 
-permalink: pretty
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 collections:
   books:
     output: true
-  israel:
+    permalink: /:collection/:path/
+  travel:
     output: true
-# FIXME: Only supported from 3.7.0
-# collections_dir: collections
+    permalink: /:collection/:path/
 
-pagination:
-  enabled: true
-  debug: true
-  per_page: 6
-  permalink: '/:num/'
-  title: ':title | :num of :max'
-
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-
-  # Collection pages, omit to disable
-  collections:
-    # Remove /collection from URL
-    permalink: /:coll/
-    title: ':coll'
-
-  # Tag pages, omit to disable
-  tags:
-    enabled: false

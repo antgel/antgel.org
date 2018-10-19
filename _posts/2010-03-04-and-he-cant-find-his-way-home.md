@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "... And He Can't Find His Way Home"
 ---
 Even though there was (and still is - this was written weeks ago) the

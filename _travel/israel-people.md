@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 'Israel for the Perplexed: People'
+title: 'Israel: People'
 toc: true
 ---
 

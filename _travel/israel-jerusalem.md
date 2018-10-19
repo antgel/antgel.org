@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 'Israel for the Perplexed: Jerusalem ירושלים'
+title: 'Israel: Jerusalem ירושלים'
 toc: true
 ---
 

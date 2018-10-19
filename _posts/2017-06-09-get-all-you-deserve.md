@@ -1,9 +1,9 @@
 ---
-layout: post
+header:
+  image: "assets/images/header/corbyn-for-the-many-1280x375.jpg"
+  image_description: "Jeremy Corbyn for the many not the Jew"
+  caption: "Image credit: Campaign Against Antisemitism"
 ---
-
-DISCLAIMER: I wrote this in a rush. Will improve later with links and
-references, and correct any mistakes.
 
 Apologies if you thought this was going to be about the Steven Wilson
 live album of the same name. I don't usually have much to say about the
@@ -29,8 +29,8 @@ must be one of the saddest stories on the planet in recent times.
 [^chavez]: I think about Venezuela because our office cleaner is from there. When he told me what had happened there, being a typical bubble Westerner, not genuinely knowing much about world affairs, I thought he must have been exaggerating. I did my own research and the results were conclusive and shocking.
 
 But at least he came across as believing in *something*. At the end of
-the day, people like a strong leader. We are influenced by simple
-slogans, we don't have the time, energy, or desire to process the
+the day, people like a strong leader. Simple slogans influence us,
+we don't have the time, energy, or desire to process the
 genuine complexity of most political and social issues, and we are not
 as rational as we like to think we are.
 

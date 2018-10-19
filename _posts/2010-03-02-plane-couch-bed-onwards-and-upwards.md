@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Plane -> Couch -> Bed - Onwards and Upwards
 ---
 You get a different crowd on non El-Al flights, and it's most noticable

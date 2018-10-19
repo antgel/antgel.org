@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 'Israel for the Perplexed: Transport'
+title: 'Israel: Transport'
 toc: true
 ---
 

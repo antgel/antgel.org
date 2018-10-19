@@ -1,7 +1,7 @@
 ---
-layout: page
+permalink: /coding-basics/
 title: Coding basics
-toc: false
+toc: true
 ---
 
 <!-- ## Intro -->

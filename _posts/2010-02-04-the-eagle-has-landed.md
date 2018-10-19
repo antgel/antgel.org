@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 So the big question is:
 

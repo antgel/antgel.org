@@ -1,5 +1,9 @@
 ---
-layout: post
+header:
+  image: "assets/images/header/radiohead-glasgow-boycott-1280x375.jpg"
+  image_description: "Glasgow Radiohead fans call to boycott Israel"
+  caption: "Image credit: Green Left Weekly"
+toc: true
 ---
 
 # Tough times

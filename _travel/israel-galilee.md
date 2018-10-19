@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 'Israel for the Perplexed: Galilee הגליל'
+title: 'Israel: Galilee הגליל'
 toc: true
 ---
 

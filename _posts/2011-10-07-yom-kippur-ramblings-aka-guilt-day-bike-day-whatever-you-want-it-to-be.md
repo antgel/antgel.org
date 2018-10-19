@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yom Kippur ramblings (aka Guilt Day / Bike Day, whatever you want it to be)
 ---
 I remember this, it's my blog.  I last wrote in January - basically the

@@ -1,6 +1,9 @@
 ---
-layout: page
-title: 'Israel for the Perplexed: Tel Aviv תל אביב'
+header:
+  image: "assets/images/header/tel-aviv-coastline-1280x375.jpg"
+  image_description: "Tel Aviv Coastline"
+  caption: "Image credit: Wikipedia"
+title: 'Israel: Tel Aviv תל אביב'
 toc: true
 ---
 

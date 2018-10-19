@@ -1,0 +1,22 @@
+main:
+  - title: ""
+    url: /
+
+side:
+  - title: "Blog Posts"
+    url: /
+  - title: "Travel Guides"
+    url: /travel/
+    children:
+    - title: "London"
+      url: /travel/london/
+    - title: "Israel for the Perplexed"
+      url: /travel/israel-for-the-perplexed/
+    - title: "Israel: Tel Aviv"
+      url: /travel/israel-tel-aviv/
+    - title: "Israel: Jerusalem"
+      url: /travel/israel-jerusalem/
+    # - title: "Israel: Galilee"
+      # url: /travel/israel-galilee/
+  - title: "Coding Basics"
+    url: /coding-basics/

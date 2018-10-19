@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 I haven't blogged for many months. This is good as it means I have been
 doing things in real life. I do have some things to get out there, and

@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 Five years ago, in August 2010, I rode my motorbike from the UK to
 Israel.  Surely it was time for another freedom-related adventure.

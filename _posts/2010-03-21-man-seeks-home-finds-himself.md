@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Man Seeks Home, Finds Himself
 ---
 Psuedo-philosophy aside, it was time to deal with earthly matters and
