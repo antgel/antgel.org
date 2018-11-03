@@ -19,7 +19,7 @@ title: Organized Chaos (a blog)
 author: Antony Gelberg
 email: antony.gelberg@COVFEFEgmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Braindumps on interesting subjects.
+  Interesting braindumps.
 baseurl: ""  # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://antgel.org"
