@@ -147,6 +147,6 @@ From the most basic street food to the complex and contemporary.
   little gits can really annoy. Or you could just take me with you
   in which case they'll leave you alone and devour me.
 * Title inspired by the Rambam's [Guide for the Perplexed](https://en.wikipedia.org/wiki/TheGuideforthePerplexed).
-* Header image is a friendly camel near [Kfar
-Kassem](https://en.wikipedia.org/wiki/Kafr_Qasim), taken by me in
-April 2018.
+
+(Header image: Camel near [Kfar
+Kassem](https://en.wikipedia.org/wiki/Kafr_Qasim).)

@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/aliya-1280x375.jpg"
+  image_description: "The Exodus Aliya ship"
+  caption: "Image credit: עמותת דור הפלמ\"ח"
 ---
 So the big question is:
 
@@ -63,3 +67,5 @@ on a Saturday morning, or indeed any day or time of day, but it turned
 out that she had found somewhere for me to stay.  She gave me the number
 of her FB, er I mean "friend" Y, and suddenly I had somewhere to go when
 the plane landed.  Which was nice.
+
+(Header image: [SS Exodus](https://en.wikipedia.org/wiki/SS_Exodus).)

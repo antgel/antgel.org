@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/raanana-park-1280x375.jpg"
+  image_description: "Ra'anana Park"
+  caption: "Image credit: tapuz.co.il"
 title: "... And He Can't Find His Way Home"
 ---
 Even though there was (and still is - this was written weeks ago) the
@@ -75,3 +79,5 @@ signs at Heathrow Airport?  What's with that shit?  Or as S might say, ?
 it's all very well prowling twenty square miles for most of one's life.
 But have you been to Shadwell lately?  Walworth?  Dagenham?  Stoke?
 Aston?  Bridgend?  Who, after all, is the Stranger in the Strange Land?
+
+(Header image: Park Ra'anana.)

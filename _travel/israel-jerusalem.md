@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/jerusalem-street-1280x375.jpg"
+  image_description: "Jerusalem street"
+  caption: "Image credit: Antony Gelberg"
 title: 'Israel: Jerusalem ירושלים'
 toc: true
 ---
@@ -144,3 +148,6 @@ Some of my highlights:
 ## Useful links
 
 * [Official Jerusalem tourist website](https://www.itraveljerusalem.com/)
+
+(Header image: Ben Yehuda Street, Jerusalem. Soldiers dancing to a
+busker as others look on. My falafel in the foreground.)

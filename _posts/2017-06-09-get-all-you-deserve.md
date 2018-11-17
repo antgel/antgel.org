@@ -73,3 +73,5 @@ ego aside and pull together, the result is likely to leave most people
 unsatisfied.
 
 [^unfair]: One of the least democratic ways to approach democracy.
+
+(Header image: Jeremy Corbyn and a doctored slogan.)

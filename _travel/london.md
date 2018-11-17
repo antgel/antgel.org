@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/london-swans-1280x375.jpg"
+  image_description: "Swans in the Serpentine, Hyde Park"
+  caption: "Image credit: Antony Gelberg"
 title: London
 toc: true
 ---
@@ -435,3 +439,5 @@ of them. These are some that have touched me over the years:
 * Bus
 * Boris bike
 * Uber / black cab
+
+(Header image: The Serpentine, Hyde Park, London.)

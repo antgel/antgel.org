@@ -269,4 +269,5 @@ us, but there's a time and place for everything. Or as Radiohead
 themselves might say, [Everything in Its Right
 Place](https://vimeo.com/157296965).
 
-# Footnotes
+(Header image: Glaswegian Radiohead fans hold up Palestinian flags and
+boycott Israel banners.)

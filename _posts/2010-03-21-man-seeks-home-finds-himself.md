@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/depressing-flat-1280x375.jpg"
+  image_description: "Depressing block of flats"
+  caption: "Image credit: דירות בישראל שמדכאות אותי"
 title: Man Seeks Home, Finds Himself
 ---
 Psuedo-philosophy aside, it was time to deal with earthly matters and
@@ -123,3 +127,5 @@ they'd been through the gypsy thing as well, which made me feel a bit
 more hopeful, not to mention normal.  After all, as much as we try to
 follow our own paths, is there anyone on this planet who hasn't derived
 some short-term solace from a metaphorical arm round the shoulder?
+
+(Header image: Depressing block of flats, somewhere in Israel.)

@@ -68,3 +68,5 @@ problem, and many locals don't have cars.
 * Wolfnights
 * Moses מוזס
 * Max Brenner
+
+(Header image: Tel Aviv coastline.)

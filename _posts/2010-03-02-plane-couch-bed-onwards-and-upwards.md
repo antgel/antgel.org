@@ -1,4 +1,8 @@
 ---
+header:
+  image: "assets/images/header/welcome-to-israel-1280x375.jpg"
+  image_description: "Welcome to Israel"
+  caption: "Image credit: Lappin Foundation"
 title: Plane -> Couch -> Bed - Onwards and Upwards
 ---
 You get a different crowd on non El-Al flights, and it's most noticable
@@ -86,3 +90,5 @@ so happy as I rearranged her room to make it less girly.  Her special
 products for taming big fluffy hair went in the bin and were replaced
 with useful things like guitars and football boots.  I happily surveyed
 the room as I nodded off from my real-life dream.
+
+(Header image: Information desk in baggage hall, Ben Gurion Airport.)

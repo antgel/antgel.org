@@ -1,12 +1,12 @@
 ---
+header:
+  image: "assets/images/header/sabich-1280x375.jpg"
+  image_description: "Sabich in pitta"
+  caption: "Image credit: mentalmanna.com"
 ---
-I haven't blogged for many months. This is good as it means I have been
-doing things in real life. I do have some things to get out there, and
-I'll try to write a bit in coming weeks, but for now...
-
-Whilst sitting in the library, I was contemplating the way that English
-people don't have a clue about sabich, but they are all over falafel and
-sharwama. So I wrote my first haiku:
+Procrastinating in the library, I contemplated how tourists don't know
+what [sabich](https://en.wikipedia.org/wiki/Sabich) is, but show them
+shawarma and falafel and they're all over it.
 
 # "The Black Sheep"
 
@@ -14,5 +14,6 @@ sharwama. So I wrote my first haiku:
 Fear of the unknown tastes good<br>
 Turkey blood unspilt
 
-This could also be my last haiku, although I have to say I think I've
-got a knack for it, and I'm not even Japanese.
+This could also be my last haiku.
+
+(Header image: Sabich in pita.)
