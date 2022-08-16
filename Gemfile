@@ -12,7 +12,7 @@ ruby '2.7.1'
 gem 'jekyll', '3.9.0'
 
 gem 'kramdown-parser-gfm'
-gem 'minimal-mistakes-jekyll'
+gem 'minimal-mistakes-jekyll', '4.24.0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
